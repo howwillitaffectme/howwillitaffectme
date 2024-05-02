@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serge
-- 👀 I’m interested in ML 👨‍💻, NLP 🗣, music 🎵, videogames 👾.
-- 🌱 I’m currently learning ML, NLP, advanced programming.
+- 👀 I’m interested in ML 👨‍💻, NLP 🗣, computer vision 👁️, music 🎵, videogames 👾.
+- 🌱 I’m currently learning ML, deep learning, advanced programming.
 - 💞️ I’m looking to collaborate on small projects, like really, feel free to reach me and ignite my interest.
 
 
